@@ -1,9 +1,9 @@
 -- phpMyAdmin SQL Dump
--- version 6.0.0-dev+20260417.26bcf2d71e
+-- version 6.0.0-dev+20260419.fc8c2d7b59
 -- https://www.phpmyadmin.net/
 --
 -- 主機： 192.168.30.23
--- 產生時間： 2026 年 04 月 18 日 12:31
+-- 產生時間： 2026 年 04 月 19 日 09:27
 -- 伺服器版本： 8.0.18
 -- PHP 版本： 8.2.26
 
